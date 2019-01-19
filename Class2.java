@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Marcus Shell
  */
 
 public class Class2 {
